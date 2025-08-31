@@ -6,9 +6,7 @@ However, the same approach can be **extended to other products** in the inventor
 
 The goal is to **maximize profit, minimize wastage**, and provide insights for better decision-making.  
 
----
-
-## 🔍 Project Overview
+## Project Overview
 - **Problem**: Grocery products have expiry dates. If stock is not allocated smartly, businesses lose money due to expired items or inefficient distribution.  
 - **Solution**: This project analyzes inventory data, calculates expiry timelines, and recommends **what to do with each batch of stock**:
   - Dispose expired items  
@@ -20,9 +18,7 @@ The goal is to **maximize profit, minimize wastage**, and provide insights for b
 
 The logic is **generic**, so even though this project demonstrates it for **coffee sachet boxes**, it can be used for **any other product in the dataset**.  
 
----
-
-## ✨ Features
+## Features
 - **Data Cleaning**: Extracts useful columns (`Product_ID`, `Supplier_ID`, `Stock_Quantity`, `Date_Received`, `Expiration_Date`).  
 - **Stock Scaling**: Adjusts stock quantity (here assumed: each product box = 100 sachets).  
 - **Expiry Calculation**: Finds number of days left before expiry.  
@@ -36,5 +32,3 @@ The logic is **generic**, so even though this project demonstrates it for **coff
 - **Worth Estimation**: Calculates financial worth of stock across categories.  
 - **Monthly Insights**: Tracks stock received per month and its average shelf life.  
 - **Profit Estimation**: Estimates annual profit potential across all categories.  
-
----
