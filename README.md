@@ -32,3 +32,16 @@ The logic is **generic**, so even though this project demonstrates it for **coff
 - **Worth Estimation**: Calculates financial worth of stock across categories.  
 - **Monthly Insights**: Tracks stock received per month and its average shelf life.  
 - **Profit Estimation**: Estimates annual profit potential across all categories.  
+
+## Insights
+- **Expired stock** → immediately disposed to cut losses  
+- **Short shelf-life stock** → gifted / used in marketing campaigns  
+- **Medium shelf-life** → diverted to franchise and discounted retail sales  
+- **Long shelf-life** → sold at full price to retailers  
+- **Profitability** → ₹33.9M annually despite losses in expired and free stock  
+
+## Future Scope
+- Apply logic across **multiple product categories**  
+- Add **demand forecasting (ML/AI)**  
+- Build **visual dashboards (Streamlit / Power BI)**  
+- Automate **real-time supply chain management**
