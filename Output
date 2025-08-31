@@ -1,3 +1,19 @@
+### Updated Inventory Records
+      Product_ID  Supplier_ID  Stock_Quantity Date_Received Expiration_Date  Stock_selling_cost  N0._of_days_left_before_expiry       Status                               Send it to
+0    29-205-1132  38-037-1699            2200    2024-08-16      2024-09-19               22000                             197  Not Expired                                Retailers
+1    40-681-9981  54-470-2479            4500    2024-11-01      2024-05-08               45000                              63  Not Expired                                Retailers
+2    06-955-3428  54-031-2945            3000    2024-08-03      2024-09-22               30000                             200  Not Expired                                Retailers
+3    71-594-6552  63-492-7603            1200    2024-12-08      2024-04-17               12000                              42  Not Expired                                Franchise
+4    57-437-1828  54-226-4308            3700    2024-07-03      2024-10-05               37000                             213  Not Expired                                Retailers
+...
+985  82-977-7752  57-473-8672            8800    2024-09-06      2024-11-04               88000                             243  Not Expired                                Retailers
+986  62-393-9939  93-877-9384            6000    2024-06-01      2024-10-05               60000                             213  Not Expired                                Retailers
+987  31-745-6850  96-215-2767            9400    2024-10-03      2024-11-01               94000                             240  Not Expired                                Retailers
+988  86-692-2312  77-783-4107            3000    2024-06-11      2024-04-30               30000                              55  Not Expired  Offering discount of INR 2 to retailers
+989  28-044-4102  93-358-1118            1900    2024-11-26      2024-08-27               19000                             174  Not Expired                                Retailers
+
+
+
 ---
 
 ### Category-wise Sales & Worth
